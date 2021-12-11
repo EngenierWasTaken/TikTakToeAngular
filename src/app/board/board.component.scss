@@ -1,0 +1,25 @@
+main {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 10px;
+}
+
+app-square {
+    height: 200px;
+}
+
+.mat-flat-button{
+    font-size: 3vh !important;
+}
+
+.mat-headline{
+    text-align: center;
+    font-size: 2.5vh !important;
+    color: white !important;
+}
+
+#outer {
+  width:100%;
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tiktaktoepwatest": {
+      "hosting": {
+        "TikTakToeApp": [
+          "tiktaktoepwatest"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tiktaktoepwatest"
+  }
+}
